@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: vitaliykononovich/test-bank-app:build-11
+        image: vitaliykononovich/test-bank-app:build-13
         ports:
         - containerPort: 80
